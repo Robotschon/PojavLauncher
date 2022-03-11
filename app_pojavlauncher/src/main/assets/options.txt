@@ -1,7 +1,7 @@
 invertYMouse:false
 mouseSensitivity:0.5
 fov:0.0
-gamma:0.5070422
+gamma:27342730
 saturation:0.0
 renderDistance:2
 guiScale:3
@@ -30,7 +30,7 @@ hideServerAddress:false
 advancedItemTooltips:false
 pauseOnLostFocus:true
 showCape:true
-touchscreen:false
+touchscreen:true
 overrideWidth:0
 overrideHeight:0
 heldItemTooltips:true
